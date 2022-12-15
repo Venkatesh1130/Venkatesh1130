@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venkatesh-Ratnaparkhe
 - 👀 I’m interested in Web Developemt, Machine Learning and Problem solving.
-- 🌱 I’m currently learning Front-end Development as I think I'm goot at Backend.
+- 🌱 I’m currently learning Front-end Development as I think I'm good at Backend.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
